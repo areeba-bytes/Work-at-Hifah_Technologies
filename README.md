@@ -1,10 +1,10 @@
-# 🧪 Bug Reports – Hifah Technologies
+# Bug Reports – Hifah Technologies
 
 This repository contains QA bug reports and test documentation created during my internship at Hifah Technologies.
 
 ---
 
-## 📌 About the Project
+## About the Project
 
 This work includes detailed bug reports, functional testing sheets, and QA documentation for multiple modules including:
 
@@ -16,7 +16,7 @@ This work includes detailed bug reports, functional testing sheets, and QA docum
 
 ---
 
-## 🛠 Tools Used
+## Tools Used
 
 - Microsoft Excel (.xlsx)
 - Microsoft Word (.docx)
@@ -25,6 +25,6 @@ This work includes detailed bug reports, functional testing sheets, and QA docum
 
 ---
 
-## 📂 Repository Structure
+## Repository Structure
 
 All files are organized under:
